@@ -26,8 +26,8 @@
             "description": "Japanilaista ramenia parhaimmillaan",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5d108aa82e757db3f4946ca9/d88ebd36611a5e56bfc6a60264fe3f81",
             "location": [
-                24.941786527633663,
-                60.169934599421396
+                32.0717388,
+                34.7810694
             ],
             "name": "Momotoko Citycenter",
             "online": false,
@@ -44,8 +44,8 @@
             "description": "Modernia gourmet-kebabia ",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5abcf2d270aae6000deacff0/9c21840f97e01f5c293eae0993b4faa2",
             "location": [
-                24.94184732393478,
-                60.16993168083865
+                32.0717388,
+                34.7810694
             ],
             "name": "D\u00f6ner Harju City",
             "online": true,
@@ -62,8 +62,8 @@
             "description": "Viihtyis\u00e4 kiinalainen ravintola",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5cfa497902b535ee1c620fca/2c451d88fe96dc04d228dc4cd3dd23a5",
             "location": [
-                24.94148075580597,
-                60.16990257838493
+                32.0758942,
+                34.7815678
             ],
             "name": "Bi\u00e1ng! Citycenter",
             "online": true,
@@ -80,8 +80,8 @@
             "description": "Trendikk\u00e4\u00e4t havaijilaiset poket",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5b8e46f4c9d2f5000b8216fa/4c97474360f98231b7bb1f90e430855d",
             "location": [
-                24.941325187683105,
-                60.16988548380842
+                32.0740713,
+                34.7808001
             ],
             "name": "Hey Poke Citycenter",
             "online": false,
@@ -98,8 +98,8 @@
             "description": "Ilmi\u00f6m\u00e4isi\u00e4 sushiburritoja",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/57d7af84b7426f114912b2a1/75742ebe3c411262325c647a3acbd5b2",
             "location": [
-                24.9400752782822,
-                60.1701494897883
+                32.0784619,
+                34.7786196
             ],
             "name": "Soma Food, Kaivokatu",
             "online": true,
