@@ -2,9 +2,9 @@
     "restaurants":[
         {
             "blurhash": "UUKJMXv|x]oz0gtRM{V@AHRQwvxZXSs9s;o0",
-            "city": "Helsinki",
-            "currency": "EUR",
-            "delivery_price": 390,
+            "city": "Tell Aviv",
+            "currency": "ILS",
+            "delivery_price": 10,
             "description": "Asenneburgeri",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5b348b31fe8992000bbec771/2be8c7738b220df2f9a0974da5c90d90",
             "location": [
@@ -20,9 +20,9 @@
         },
         {
             "blurhash": "U8INy*D+KjIW%3pZ$yx[5T0Lv|_1.3m,0z9h",
-            "city": "Helsinki",
-            "currency": "EUR",
-            "delivery_price": 390,
+             "city": "Tel Aviv",
+           "currency": "ILS",
+            "delivery_price": 10,
             "description": "Japanilaista ramenia parhaimmillaan",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5d108aa82e757db3f4946ca9/d88ebd36611a5e56bfc6a60264fe3f81",
             "location": [
@@ -38,9 +38,9 @@
         },
         {
             "blurhash": "UXJHswsy-n%0~T%Ka%NLNFjFxvNe%MRjM|ax",
-            "city": "Helsinki",
-            "currency": "EUR",
-            "delivery_price": 390,
+             "city": "Tel Aviv",
+            "currency": "ILS",
+            "delivery_price": 10,
             "description": "Modernia gourmet-kebabia ",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5abcf2d270aae6000deacff0/9c21840f97e01f5c293eae0993b4faa2",
             "location": [
@@ -56,9 +56,9 @@
         },
         {
             "blurhash": "ULL;EN%4?c-Oys?wxuTJ?ujERQMxw[M{aeR4",
-            "city": "Helsinki",
-            "currency": "EUR",
-            "delivery_price": 390,
+             "city": "Telll Aviv",
+            "currency": "ILS",
+            "delivery_price": 10,
             "description": "Viihtyis\u00e4 kiinalainen ravintola",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5cfa497902b535ee1c620fca/2c451d88fe96dc04d228dc4cd3dd23a5",
             "location": [
@@ -74,9 +74,9 @@
         },
         {
             "blurhash": "UELWIZ-n~pxt?a9tbwIpx^o#OoRkbsD%tP^P",
-            "city": "Helsinki",
-            "currency": "EUR",
-            "delivery_price": 390,
+             "city": "Tel Aviv",
+            "currency": "ILS",
+            "delivery_price": 10,
             "description": "Trendikk\u00e4\u00e4t havaijilaiset poket",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5b8e46f4c9d2f5000b8216fa/4c97474360f98231b7bb1f90e430855d",
             "location": [
@@ -93,8 +93,8 @@
         {
             "blurhash": "UZP$~|R*o~tRyEM{V[f7?wRjVsV@IAozfhae",
             "city": "Helsinki",
-            "currency": "EUR",
-            "delivery_price": 390,
+            "currency": "ILS",
+            "delivery_price": 10,
             "description": "Ilmi\u00f6m\u00e4isi\u00e4 sushiburritoja",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/57d7af84b7426f114912b2a1/75742ebe3c411262325c647a3acbd5b2",
             "location": [
@@ -112,7 +112,7 @@
             "blurhash": "UdI3~;Ip0}Rk={bH9]oJW.RjnlbvNeV@xtbI",
             "city": "Helsinki",
             "currency": "EUR",
-            "delivery_price": 390,
+           "delivery_price": 10,
             "description": "Tuoretta ja laadukasta sushia",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5ad7050b879256000b477e16/705b6f09e5e4b33779b45afffb994cac",
             "location": [
