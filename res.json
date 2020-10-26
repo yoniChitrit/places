@@ -5,13 +5,13 @@
             "city": "Tell Aviv",
             "currency": "ILS",
             "delivery_price": 10,
-            "description": "Asenneburgeri",
+            "description": "McDonald's Rothschild",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5b348b31fe8992000bbec771/2be8c7738b220df2f9a0974da5c90d90",
             "location": [
                 32.0712402,
                 34.7799212
             ],
-            "name": "Social Burgerjoint Citycenter",
+            "name": "McRoyal the most popular hamburger in Israel",
             "online": false,
             "tags": [
                 "hamburger",
