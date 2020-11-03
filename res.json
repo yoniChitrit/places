@@ -8,10 +8,10 @@
             "description": "McRoyal the most popular hamburger in Israel",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5b348b31fe8992000bbec771/2be8c7738b220df2f9a0974da5c90d90",
             "location": [
-                32.0712402,
-                34.7799212
+              32.0751537,
+              34.781882
             ],
-            "name": "McDonald's Rothschild",
+            "name": "McDonald's London Ministore",
             "online": false,
             "tags": [
                 "hamburger",
@@ -23,13 +23,13 @@
              "city": "Tel Aviv",
            "currency": "ILS",
             "delivery_price": 10,
-            "description": "Japanilaista ramenia parhaimmillaan",
+            "description": "Indian Dishes Restaurant ",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5d108aa82e757db3f4946ca9/d88ebd36611a5e56bfc6a60264fe3f81",
             "location": [
-                32.0717388,
-                34.7810694
+               32.0777952,
+               34.7748238
             ],
-            "name": "Momotoko Citycenter",
+            "name": "Tandoori Dizengoff",
             "online": false,
             "tags": [
                 "ramen",
@@ -41,13 +41,13 @@
              "city": "Tel Aviv",
             "currency": "ILS",
             "delivery_price": 10,
-            "description": "Modernia gourmet-kebabia ",
+            "description": "Italian Restaurant",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5abcf2d270aae6000deacff0/9c21840f97e01f5c293eae0993b4faa2",
             "location": [
-                32.0717388,
-                34.7810694
+               32.0824814,
+               34.7815374
             ],
-            "name": "D\u00f6ner Harju City",
+            "name": "Agvania Pizza",
             "online": true,
             "tags": [
                 "kebab",
