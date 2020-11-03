@@ -116,10 +116,10 @@
             "description": "Tuoretta ja laadukasta sushia",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5ad7050b879256000b477e16/705b6f09e5e4b33779b45afffb994cac",
             "location": [
-                24.94049370288849,
-                60.16995648878383
+                32.0775929,
+                34.7682229
             ],
-            "name": "Luckiefun's Kaivokatu",
+            "name": "Thai House Restaurant",
             "online": false,
             "tags": [
                 "sushi",
@@ -131,13 +131,14 @@
             "city": "Helsinki",
             "currency": "EUR",
             "delivery_price": 390,
-            "description": "Urbaani citysuunnistaja keskustassa",
+            "description": "Sicilian Restaurant",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5afebf92317288000b8e4c17/24797b40bc5f136cb5605f4de79c0a42",
             "location": [
-                24.941813349723816,
-                60.16974835162762
+                32.0892285 ,
+                34.7823313
+                
             ],
-            "name": "Sushibar + Wine City",
+            "name": "Olivery",
             "online": false,
             "tags": [
                 "sushi",
@@ -149,13 +150,13 @@
             "city": "Helsinki",
             "currency": "EUR",
             "delivery_price": 390,
-            "description": "Maukkaat ja reilut pitat, salaatit ja falafelit",
+            "description": "indulgent Sushi Dishes",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5de0e07c8995dc9c25304c9f/7680cf2cffae35b7302e3a91b65ce8f5",
             "location": [
-                24.93900239467621,
-                60.1707249837842
+               32.0900215,
+                34.7803116
             ],
-            "name": "Fafa's Sokos",
+            "name": "Ze Sushi / place nane",
             "online": true,
             "tags": [
                 "street food",
