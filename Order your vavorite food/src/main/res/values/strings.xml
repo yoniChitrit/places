@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">example</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Delivery">$$ - Delivery</string>
+    <string name="Search">Search</string>
+    <string name="Profile">Profile</string>
+    <string name="tags">tags</string>
+    <string name="name">name</string>
+    <string name="time">time</string>
+    <string name="min">min</string>
+    <string name="delivery_grop">Delivery</string>
+    <string name="infoButton">info menu</string>
+    <string name="close_open">Close 22 pm , Open 11 am></string>
+    <string name="delivery_in_min">Delivery in20 - 30 min</string>
+    <string name="go_to_order">   Go To Order</string>
+    <string name="no_selection_menu">No selection</string>
+    <string name="random_name_food_selection">Random</string>
+
+</resources>
