@@ -13,6 +13,7 @@
            "meal_price": "7",
            "available": true,
             "popular_item": false
+            "tags":"1"
         },
         
         {
@@ -23,6 +24,7 @@
            "meal_price": "9",
            "available": true,
            "popular_item": true
+            "tags":"2"
         },
       
       {
@@ -34,6 +36,7 @@
           "description": "Asian salad in Siam sauce with a mixture of peanuts, sesame seeds, crispy onion chips and chunks of crunchy chicken",
            "meal_price": "7",
            "available": true
+          "tags":"3"
           
          }
    
