@@ -12,8 +12,8 @@
            "description": "325g Mac Royale burger grilled on coals,The meal is served with a bun with lettuce tomato, purple onion and pickles, Mac Royale sauce, Cola Zero regular 400ml Plain chips 100g",
            "meal_price": "7",
            "available": true,
-            "popular_item": false
-            "tags":"1"
+            "popular_item": false,
+            "tags":"100"
         },
         
         {
@@ -23,8 +23,8 @@
            "description": "325g Mac Royal burger grilled on coals, served on a bun with lettuce, tomato, purple onion and pickles and a spicy royal sauce",
            "meal_price": "9",
            "available": true,
-           "popular_item": true
-            "tags":"2"
+           "popular_item": true,
+            "tags":"101"
         },
       
       {
@@ -35,8 +35,8 @@
           "name": "Siam salad meal with crunchies",
           "description": "Asian salad in Siam sauce with a mixture of peanuts, sesame seeds, crispy onion chips and chunks of crunchy chicken",
            "meal_price": "7",
-           "available": true
-          "tags":"3"
+           "available": true,
+          "tags":"102"
           
          }
    
