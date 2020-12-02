@@ -36,6 +36,7 @@
           "description": "Asian salad in Siam sauce with a mixture of peanuts, sesame seeds, crispy onion chips and chunks of crunchy chicken",
            "meal_price": "7",
            "available": true,
+          "popular_item": true,
           "tags":102
           
          }
