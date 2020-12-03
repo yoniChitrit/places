@@ -1,1 +1,131 @@
-
+{
+    "restaurants":[
+        {
+            "blurhash": "UUKJMXv|x]oz0gtRM{V@AHRQwvxZXSs9s;o0",
+            "city": "Tell Aviv",
+            "currency": "ILS",
+            "delivery_price": 10,
+            "description": "McRoyal the most popular hamburger in Israel",
+            "image": "https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/mcdonalds%20London%20Ministore%2Fmcc.png?alt=media&token=77175026-e820-400a-ae89-03318bad165d",
+            "location": [
+              32.0751537,
+              34.781882
+            ],
+            "name": "McDonald's London Ministore",
+            "online": false,
+            "tags": [
+                "hamburger",
+                "LondonMinistoreMcdonald"
+            ]
+        },
+       {
+            "blurhash": "UUKJMXv|x]oz0gtRM{V@AHRQwvxZXSs9s;o0",
+            "city": "Tell Aviv",
+            "currency": "ILS",
+            "delivery_price": 10,
+            "description": "Authentic Thai Food , the most delicious in Tel Aviv",
+            "image": "https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/esian%2Fmain_esian.jpeg?alt=media&token=a1e96dc6-4845-4fd8-9ecc-059f455cc1f2",
+            "location": [
+            32.069361,
+            34.769696
+            ],
+            "name": "Eisan อีสาน",
+            "online": false,
+            "tags": [
+                "Asian",
+                "esian carmel market"
+            ]
+        },
+      
+        {
+            "blurhash": "U8INy*D+KjIW%3pZ$yx[5T0Lv|_1.3m,0z9h",
+             "city": "Tel Aviv",
+           "currency": "ILS",
+            "delivery_price": 10,
+            "description": "Thai Cook House 🇹🇭 Sawadika",
+            "image": "https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/Nam%20King%20George%2Fmain_num.jpeg?alt=media&token=90463318-5d39-49ad-8e89-6dd24e37b812",
+            "location": [
+               32.0772452,
+              34.7778132
+            ],
+            "name": "Nam King George",
+            "online": false,
+            "tags": [
+                "Asin",
+                "nam king george"
+            ]
+        },
+        {
+            "blurhash": "UXJHswsy-n%0~T%Ka%NLNFjFxvNe%MRjM|ax",
+             "city": "Tel Aviv",
+            "currency": "ILS",
+            "delivery_price": 10,
+            "description": "",
+            "image": "",
+            "location": [
+               32.0824814,
+               34.7815374
+            ],
+            "name": "",
+            "online": true,
+            "tags": [
+                "",
+                ""
+            ]
+        },
+        {
+            "blurhash": "ULL;EN%4?c-Oys?wxuTJ?ujERQMxw[M{aeR4",
+             "city": "Telll Aviv",
+            "currency": "ILS",
+            "delivery_price": 10,
+            "description": "Viihtyis\u00e4 kiinalainen ravintola",
+            "image": "https://prod-wolt-venue-images-cdn.wolt.com/5cfa497902b535ee1c620fca/2c451d88fe96dc04d228dc4cd3dd23a5",
+            "location": [
+                32.0758942,
+                34.7815678
+            ],
+            "name": "Bi\u00e1ng! Citycenter",
+            "online": true,
+            "tags": [
+                "chinese",
+                "asian"
+            ]
+        },
+        {
+            "blurhash": "UELWIZ-n~pxt?a9tbwIpx^o#OoRkbsD%tP^P",
+             "city": "Tel Aviv",
+            "currency": "ILS",
+            "delivery_price": 10,
+            "description": "Trendikk\u00e4\u00e4t havaijilaiset poket",
+            "image": "https://prod-wolt-venue-images-cdn.wolt.com/5b8e46f4c9d2f5000b8216fa/4c97474360f98231b7bb1f90e430855d",
+            "location": [
+                32.0740713,
+                34.7808001
+            ],
+            "name": "Hey Poke Citycenter",
+            "online": false,
+            "tags": [
+                "poke",
+                "Hawaii"
+            ]
+        },
+        {
+            "blurhash": "UZP$~|R*o~tRyEM{V[f7?wRjVsV@IAozfhae",
+            "city": "Helsinki",
+            "currency": "ILS",
+            "delivery_price": 10,
+            "description": "Ilmi\u00f6m\u00e4isi\u00e4 sushiburritoja",
+            "image": "https://prod-wolt-venue-images-cdn.wolt.com/57d7af84b7426f114912b2a1/75742ebe3c411262325c647a3acbd5b2",
+            "location": [
+                32.0784619,
+                34.7786196
+            ],
+            "name": "Soma Food, Kaivokatu",
+            "online": true,
+            "tags": [
+                "sushi",
+                "burrito"
+            ]
+        }
+      ]
+}
