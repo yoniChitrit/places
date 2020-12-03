@@ -13,7 +13,9 @@
            "meal_price": "79",
            "available": true,
             "popular_item": false,
-            "tags":100
+            "tags":100,
+             "a":[{"chicken/tofu/Shrimp","chicken"},{"chicken","tofu","Shrimp"}],
+              "b":[{"chicken/tofu/Shrimp","chicken"},{"chicken","tofu","Shrimp"}]
         },
   
       {
