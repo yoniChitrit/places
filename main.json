@@ -32,7 +32,7 @@
             "name": "Eisan อีสาน",
             "online": false,
             "tags": [
-                "Asian",
+                "thai",
                 "esian carmel market"
             ]
         },
@@ -51,8 +51,8 @@
             "name": "Nam King George",
             "online": false,
             "tags": [
-                "Asin",
-                "nam king george"
+                "thai",
+                "NamkingGeorge"
             ]
         },
         {
@@ -60,17 +60,17 @@
              "city": "Tel Aviv",
             "currency": "ILS",
             "delivery_price": 10,
-            "description": "",
-            "image": "",
+            "description": "100% Vegan Burger Joint",
+            "image": "https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/Rainbow%2Fmain_rianbow.jpeg?alt=media&token=f00250ca-7a8c-4100-852a-3956c6bef7a8",
             "location": [
                32.0824814,
                34.7815374
             ],
-            "name": "",
+            "name": "Rainbow 🌈 Ibn Gabirol",
             "online": true,
             "tags": [
-                "",
-                ""
+                "hamburger",
+                "RainbowIbnGabirol"
             ]
         },
         {
@@ -78,17 +78,17 @@
              "city": "Telll Aviv",
             "currency": "ILS",
             "delivery_price": 10,
-            "description": "Viihtyis\u00e4 kiinalainen ravintola",
+            "description": "Pasta Deli",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5cfa497902b535ee1c620fca/2c451d88fe96dc04d228dc4cd3dd23a5",
             "location": [
-                32.0758942,
-                34.7815678
+               32.08873,
+               34.7827009
             ],
-            "name": "Bi\u00e1ng! Citycenter",
+            "name": "PASTA VIA",
             "online": true,
             "tags": [
-                "chinese",
-                "asian"
+                "pasta",
+                "PastaVia"
             ]
         },
         {
@@ -96,17 +96,17 @@
              "city": "Tel Aviv",
             "currency": "ILS",
             "delivery_price": 10,
-            "description": "Trendikk\u00e4\u00e4t havaijilaiset poket",
+            "description": "Indulgent Sushi Dishes",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/5b8e46f4c9d2f5000b8216fa/4c97474360f98231b7bb1f90e430855d",
             "location": [
-                32.0740713,
-                34.7808001
+               32.0900216,
+                34.7803117
             ],
-            "name": "Hey Poke Citycenter",
+            "name": "Ze Sushi / Basel",
             "online": false,
             "tags": [
-                "poke",
-                "Hawaii"
+                "sushi",
+                "ZeSushiBasel"
             ]
         },
         {
@@ -114,17 +114,17 @@
             "city": "Helsinki",
             "currency": "ILS",
             "delivery_price": 10,
-            "description": "Ilmi\u00f6m\u00e4isi\u00e4 sushiburritoja",
+            "description": "Wok & Sushi - Kosher",
             "image": "https://prod-wolt-venue-images-cdn.wolt.com/57d7af84b7426f114912b2a1/75742ebe3c411262325c647a3acbd5b2",
             "location": [
-                32.0784619,
-                34.7786196
+               32.0702668,
+                34.786771
             ],
-            "name": "Soma Food, Kaivokatu",
+            "name": "Japan Japan / Tel Aviv",
             "online": true,
             "tags": [
                 "sushi",
-                "burrito"
+                "JapanJapanHaarbaa"
             ]
         }
       ]
