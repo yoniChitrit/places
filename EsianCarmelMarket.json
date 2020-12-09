@@ -9,8 +9,8 @@
           
            "image": "https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/esian%2FSom%20Tam.jpeg?alt=media&token=7393363e-3864-470d-bfab-dc6cd5de9359",          
            "name": "Som Tam",
-           "description": "Green papaya salad, tomatoes, garlic, lime, palm sugar, peanuts and spicy chili sauce in fish sauce / soy sauce  29",
-           "meal_price": "29",
+           "description": "Green papaya salad, tomatoes, garlic, lime, palm sugar, peanuts and spicy chili sauce in fish sauce / soy sauce  ",
+           "meal_price": "29 ₪",
            "available": true,
            "popular_item": true,
             "tags":101
@@ -21,10 +21,13 @@
            "image": "https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/esian%2FYam.jpeg?alt=media&token=1f79380d-24cd-4716-889e-f0608f41f2cb",          
            "name": "Yam",
            "description": "Chicken with bean noodles, cherry tomatoes, peanuts, celery, coriander, white onion and lime in fish sauce / soy sauce Yam 🌶️🌶️",
-           "meal_price": "39",
+           "meal_price": "39 ₪",
            "available": true,
             "popular_item": false,
-            "tags":100
+            "tags":100,
+            "checkbox":[{"Choose Side":"Chiken,beef +3,Tofu,shirmp +16,White Meat +6"}]
+                    
+            
         },
    
       {
@@ -32,14 +35,31 @@
       },
       {
        "image":"https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/esian%2Fmassaman.jpeg?alt=media&token=78ef42aa-8c2b-4de9-9438-759cbff3531e",
-          "name": "massaman",
+          "name": "massaman 🌶️",
           "description": "Coconut Milk Massaman Curry with chicken / meat / tofu / pork / shrimps, potato, sweet potato, white onion peanuts, cinnamon , anise  and lime curd served with steamed rice",
-           "meal_price": "54",
+           "meal_price": "54 ₪",
            "available": true,
           "popular_item": true,
-          "tags":102
-          
+          "tags":102,
+          "checkbox":[{"Choose Side":"Chiken,beef +4,Tofu,shirmp +18,White Meat +10"},
+                      {"Choose Rice":"Steamed Rice,Sticky Rice +3"}
+          ]
+         },
+          {
+       "image":"https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/esian%2Fmassaman.jpeg?alt=media&token=78ef42aa-8c2b-4de9-9438-759cbff3531e",
+          "name": "Tom Yam 🌶️",
+          "description": "Coconut Milk Massaman Curry with chicken / meat / tofu / pork / shrimps, potato, sweet potato, white onion peanuts, cinnamon , anise  and lime curd served with steamed rice",
+           "meal_price": "52 ₪",
+           "available": true,
+          "popular_item": false,
+          "tags":103,
+          "checkbox":[{"Choose Side":"Chiken,beef +4,Tofu,shirmp +18,White Meat +10"},
+                      {"Choose Rice":"Steamed Rice,Sticky Rice +3"}
+          ]
          }
    
+        
+        
+        
       ]
     }
