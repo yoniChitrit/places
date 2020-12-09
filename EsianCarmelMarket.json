@@ -41,8 +41,8 @@
            "available": true,
           "popular_item": true,
           "tags":102,
-          "checkbox":[{"Choose Side":"Chiken,beef +4,Tofu,shirmp +18,White Meat +10"},
-                      {"Choose Rice":"Steamed Rice,Sticky Rice +3"}
+          "checkbox":[{"Choose Side":"Chiken,beef +4,Tofu,shirmp +18,White Meat +10"}
+                     
           ]
          },
           {
