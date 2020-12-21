@@ -42,8 +42,8 @@
            "available": true,
           "popular_item": true,
           "tags":102,
-           "nametopping":["Choose Side","Choose Rice"],
-            "topping":["Chiken=0,beef=4,Tofu=0,shrimp=18,White Meat=10","Steamed Rice=0,Sticky Rice=3"]
+           "nametopping":["Choose Side","Choose Rice","test"],
+            "topping":["Chiken=0,beef=4,Tofu=0,shrimp=18,White Meat=10","Steamed Rice=0,Sticky Rice=3","test=0,test=3"]
                         
          },
           {
