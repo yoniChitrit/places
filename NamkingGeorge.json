@@ -3,7 +3,43 @@
       
     
       {
-         "category": "SPECIALS"
+         "category": "YAM & SOD"
+      },
+      {
+       "image":"https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/Nam%20King%20George%2Fsom%20Tam.jpeg?alt=media&token=29424e77-ebef-4431-a033-1d2889612d36",
+          "name": "Som Tam 🌶️🌶️ ",
+          "description": "Green Papaya, Cherry Tomatoes, Thai Beans, Peanuts, Garlic, Fish sauce, Palm Sugar, Lemon and Chilli",
+           "meal_price": "36 ₪",
+           "available": true,
+          "popular_item": true,
+          "tags":100,
+               "Change":["No Cherry Tomatoes","No thai Beans","No Garlic","No Peanuts"],
+              "Spiciness":["Spicy 🌶️🌶️ ","Slightly spicy 🌶️  ","Very Spicy🌶️🌶️🌶️ " ,"No spicy"],           
+              "Sticky Rice 12₪":["No thanks","Yes"]          
+          
+          
+         },
+        {
+          "image":"https://wolt-menu-images-cdn.wolt.com/menu-images/9d8a5c8a-7e41-11e9-81a0-0a586461db4c___________.jpeg",
+          "name": "Yam Woon Sen 🌶️🌶️ ",
+          "description": "Green Noodles, Red Onion, Green Onion,Celery,Cherry Tomatoes, Chinese Cabbage, Chilli, Coriander and Peanuts",
+           "meal_price": "49 ₪",
+           "available": true,
+          "popular_item": false,
+          "tags":101,
+           "Choose":["Shrimps","Chicken","just Vegetables","Fried Tofu (Contains gluten)","Steamed Tofu"],
+           "Spiciness":["Spicy 🌶️🌶️ ","Slightly spicy 🌶️  ","Very Spicy🌶️🌶️🌶️ " ,"No spicy"], 
+            "Changes":["No Cherry Tomatoes","No Coriander","No Peanuts","No Onion","No Chinese Cabbage","No Celery"] ,
+             "Sticky Rice 12₪":["Without","With Sticky Rice=12"]         
+          },        
+       
+        
+        
+        
+        
+        
+          {
+         "category": "TOM & GAENG"
       },
         {
           
@@ -13,24 +49,15 @@
            "meal_price": "79 ₪",
            "available": true,
             "popular_item": false,
-            "tags":100,
+            "tags":102,
+          "Cheese Rice":["Steamed Rice","Sticky Rice"],
+               "Spiciness":["Spicy 🌶️🌶️ ","Slightly spicy 🌶️  ","Very Spicy🌶️🌶️🌶️ "],             
+            "Changes":["No Onion","No Potato"]
            
-        },
-  
-      {
-         "category": "YAM & SOD"
-      },
-      {
-       "image":"https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/Nam%20King%20George%2Fsom%20Tam.jpeg?alt=media&token=29424e77-ebef-4431-a033-1d2889612d36",
-          "name": "Som Tam",
-          "description": "Green Papaya, Cherry Tomatoes, Thai Beans, Peanuts, Garlic, Fish sauce, Palm Sugar, Lemon and Chilli",
-           "meal_price": "36 ₪",
-           "available": true,
-          "popular_item": true,
-          "tags":102
-          
-         }
-   
+        }       
+        
+            
+            
       ]
     }
 
