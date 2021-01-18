@@ -14,13 +14,13 @@
           "popular_item": true,
           "tags":100,
           "textdisplay":["Changes","Spiciness","Sticky Rice 12₪"],  
-          "topping":["No Cherry Tomatoes,No thai Beans,No Garlic,No Peanuts","Spicy 🌶️🌶️ ,Slightly spicy 🌶️  ,Very Spicy🌶️🌶️🌶️  ,No spicy"," Without,With Sticky Rice=12]},
+          "topping":["No Cherry Tomatoes,No thai Beans,No Garlic,No Peanuts","Spicy 🌶️🌶️ ,Slightly spicy 🌶️  ,Very Spicy🌶️🌶️🌶️  ,No spicy"," Without,With Sticky Rice=12"]},
                      
                        {
           "image":"https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/Nam%20King%20George%2FYam_woon_sen.jpeg?alt=media&token=a2e73be9-73c5-466c-9cc3-c7c18b7db393",
-          "name": "Yam Woon Sen 🌶️🌶️ ",
+          "name":"Yam Woon Sen 🌶️🌶️ " ,
           "description": "Green Noodles, Red Onion, Green Onion,Celery,Cherry Tomatoes, Chinese Cabbage, Chilli, Coriander and Peanuts",
-           "meal_price": "49 ₪",
+           "meal_price": "49 ₪ ",
            "available": true,
           "popular_item": false,
           "tags":101,
