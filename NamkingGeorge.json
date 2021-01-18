@@ -13,24 +13,27 @@
            "available": true,
           "popular_item": true,
           "tags":100,
-               "Change":["No Cherry Tomatoes","No thai Beans","No Garlic","No Peanuts"],
-              "Spiciness":["Spicy 🌶️🌶️ ","Slightly spicy 🌶️  ","Very Spicy🌶️🌶️🌶️ " ,"No spicy"],           
-              "Sticky Rice 12₪":["No thanks","Yes"]          
+            "textDisply":["Changes","Spiciness","Sticky Rice 12₪"],  
+          "topping":["No Cherry Tomatoes,No thai Beans,No Garlic,No Peanuts","Spicy 🌶️🌶️ ,Slightly spicy 🌶️  ,Very Spicy🌶️🌶️🌶️  ,No spicy"," Without,With Sticky Rice=12]
+       
+                     
+                   
           
           
          },
         {
-          "image":"https://wolt-menu-images-cdn.wolt.com/menu-images/9d8a5c8a-7e41-11e9-81a0-0a586461db4c___________.jpeg",
+          "image":"https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/Nam%20King%20George%2FYam_woon_sen.jpeg?alt=media&token=a2e73be9-73c5-466c-9cc3-c7c18b7db393",
           "name": "Yam Woon Sen 🌶️🌶️ ",
           "description": "Green Noodles, Red Onion, Green Onion,Celery,Cherry Tomatoes, Chinese Cabbage, Chilli, Coriander and Peanuts",
            "meal_price": "49 ₪",
            "available": true,
           "popular_item": false,
           "tags":101,
-           "Choose":["Shrimps","Chicken","just Vegetables","Fried Tofu (Contains gluten)","Steamed Tofu"],
-           "Spiciness":["Spicy 🌶️🌶️ ","Slightly spicy 🌶️  ","Very Spicy🌶️🌶️🌶️ " ,"No spicy"], 
-            "Changes":["No Cherry Tomatoes","No Coriander","No Peanuts","No Onion","No Chinese Cabbage","No Celery"] ,
-             "Sticky Rice 12₪":["Without","With Sticky Rice=12"]         
+           "textDisply":["Choose","Spiciness","Changes","Sticky Rice 12₪"],          
+            "topping":["Shrimps,Chicken,just Vegetables,Fried Tofu (Contains gluten),Steamed Tofu","Spicy 🌶️🌶️ ,Slightly spicy 🌶️  ,Very Spicy🌶️🌶️🌶️  ,No spicy","No Cherry Tomatoes,No Coriander,No Peanuts,No Onion,No Chinese Cabbage,No Celery"," Without,With Sticky Rice=12],
+          
+         
+           
           },        
        
         
@@ -44,17 +47,18 @@
         {
           
            "image": "https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/Nam%20King%20George%2FGaeng%20Pla%20Curry.jpeg?alt=media&token=ea57db52-743f-4c25-a6ae-492d4f44d291",          
-           "name": "Gaeng Pla Curry - Special  🌶",
+           "name": "Gaeng Pla Curry - Special  🌶" ",
            "description": "fried fish in a yellow curry, with onion, potato, thai beans and chilli served with steamed rice",
            "meal_price": "79 ₪",
            "available": true,
             "popular_item": false,
             "tags":102,
-          "Cheese Rice":["Steamed Rice","Sticky Rice"],
-               "Spiciness":["Spicy 🌶️🌶️ ","Slightly spicy 🌶️  ","Very Spicy🌶️🌶️🌶️ "],             
-            "Changes":["No Onion","No Potato"]
-           
-        }       
+             "textDisply":["Cheese Rice","Spiciness","Changes"],
+            "topping":["Steamed Rice,Sticky Rice"," Spicy 🌶️🌶️ ,Slightly spicy 🌶️  ,Very Spicy 🌶️🌶️🌶️ ","No Onion ,No Potato"]
+          
+        }  
+         
+        
         
             
             
