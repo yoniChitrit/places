@@ -112,24 +112,9 @@
                 "sushi",
                 "ZeSushiBasel"
             ]
-        },
-        {
-            "blurhash": "UZP$~|R*o~tRyEM{V[f7?wRjVsV@IAozfhae",
-            "city": "Tell Aviv",
-            "currency": "ILS",
-            "delivery_price": 10,
-            "description": "Wok & Sushi - Kosher",
-            "image": "https://prod-wolt-venue-images-cdn.wolt.com/57d7af84b7426f114912b2a1/75742ebe3c411262325c647a3acbd5b2",
-            "location": [
-               32.0702668,
-                34.786771
-            ],
-            "name": "Japan Japan / Tel Aviv",
-            "online": true,
-            "tags": [
-                "sushi",
-                "JapanJapanHaarbaa"
-            ]
         }
+      
+        
+        
       ]
 }
