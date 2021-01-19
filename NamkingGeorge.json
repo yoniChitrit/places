@@ -29,7 +29,7 @@
             "topping":["Shrimps,Chicken,just Vegetables,Fried Tofu (Contains gluten),Steamed Tofu",
                        "Spicy 🌶️🌶️ ,Slightly spicy 🌶️  ,Very Spicy🌶️🌶️🌶️  ,No spicy",
                        "No Cherry Tomatoes,No Coriander,No Peanuts,No Onion,No Chinese Cabbage,No Celery"," Without,With Sticky Rice=12"] ,                 
-                "isMultiSt":[false,true,false] }, 
+                "isMultiSt":[false,true,false,true] }, 
           {
              "category":"TOM & GAENG"
            },
