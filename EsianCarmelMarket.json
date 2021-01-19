@@ -25,7 +25,7 @@
            "available": true,
             "popular_item": false,
             "tags":100,
-            "textdisplay":["Choose Side"],
+            "textdisplay":["Choose"],
             "topping":["Chiken=0,beef=3,Tofu=0,shrimp=16,White Meat=6"],
             "isMultiSt":[false]                   
             
@@ -42,7 +42,7 @@
            "available": true,
           "popular_item": true,
           "tags":102,
-           "textdisplay":["Choose Side","Choose Rice"],
+           "textdisplay":["Choose","Choose Rice"],
             "topping":["Chiken=0,beef=4,Tofu=0,shrimp=18,White Meat=10","Steamed Rice=0,Sticky Rice=3"],
                "isMultiSt":[false,false]         
          },
@@ -54,7 +54,7 @@
            "available": true,
           "popular_item": false,
           "tags":103,
-           "textdisplay":["Choose Side","Choose Rice"],
+           "textdisplay":["Choose","Choose Rice"],
            "topping":["Chiken=0,Tofu=0,shrimp=28","Steamed Rice=0,Sticky Rice=3"],
               "isMultiSt":[false,false]     
           }
