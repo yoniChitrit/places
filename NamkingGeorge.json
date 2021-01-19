@@ -14,8 +14,9 @@
           "popular_item": true,
           "tags":100,
           "textdisplay":["Changes","Spiciness","Sticky Rice 12₪"],  
-          "topping":["No Cherry Tomatoes,No thai Beans,No Garlic,No Peanuts","Spicy 🌶️🌶️ ,Slightly spicy 🌶️  ,Very Spicy🌶️🌶️🌶️  ,No spicy"," Without,With Sticky Rice=12"]},
-                     
+          "topping":["No Cherry Tomatoes,No thai Beans,No Garlic,No Peanuts","Spicy 🌶️🌶️ ,Slightly spicy 🌶️  ,Very Spicy🌶️🌶️🌶️  ,No spicy"," Without,With Sticky Rice=12"],
+              "isMultySt":[true,false,false]},
+
                        {
           "image":"https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/Nam%20King%20George%2FYam_woon_sen.jpeg?alt=media&token=a2e73be9-73c5-466c-9cc3-c7c18b7db393",
           "name":"Yam Woon Sen 🌶️🌶️ " ,
@@ -27,9 +28,9 @@
            "textdisplay":["Choose","Spiciness","Changes","Sticky Rice 12₪"],          
             "topping":["Shrimps,Chicken,just Vegetables,Fried Tofu (Contains gluten),Steamed Tofu",
                        "Spicy 🌶️🌶️ ,Slightly spicy 🌶️  ,Very Spicy🌶️🌶️🌶️  ,No spicy",
-                       "No Cherry Tomatoes,No Coriander,No Peanuts,No Onion,No Chinese Cabbage,No Celery"," Without,With Sticky Rice=12"]},                   
-          
-            {
+                       "No Cherry Tomatoes,No Coriander,No Peanuts,No Onion,No Chinese Cabbage,No Celery"," Without,With Sticky Rice=12"] ,                 
+                "isMultySt":[false,true,false] }, 
+          {
              "category":"TOM & GAENG"
            },
            {
@@ -42,16 +43,16 @@
             "popular_item": false,
             "tags":102,
              "textdisplay":["Cheese Rice","Spiciness","Changes"],
-            "topping":["Steamed Rice,Sticky Rice"," Spicy 🌶️🌶️ ,Slightly spicy 🌶️  ,Very Spicy 🌶️🌶️🌶️ ","No Onion ,No Potato"]}         
-      
+            "topping":["Steamed Rice,Sticky Rice"," Spicy 🌶️🌶️ ,Slightly spicy 🌶️  ,Very Spicy 🌶️🌶️🌶️ ","No Onion ,No Potato"],
+                "isMultySt":[false,false,false]}       
           
          
            
              
        
         
-        
-        
+           ]
+    }        
         
         
         
@@ -62,6 +63,5 @@
         
             
             
-      ]
-    }
+   
 
