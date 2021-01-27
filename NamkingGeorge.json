@@ -26,7 +26,7 @@
            "available": true,
           "popular_item": false,
           "tags":101,
-          "isMultiSt":[false,true,false,true],                            
+          "isMultiSt":[false,false,true,false],                            
            "textdisplay":["Choose","Spiciness","Changes","Sticky Rice 12₪"],          
             "topping":["Shrimps,Chicken,just Vegetables,Fried Tofu (Contains gluten),Steamed Tofu",
                        "Spicy 🌶️🌶️ ,Slightly spicy 🌶️  ,Very Spicy🌶️🌶️🌶️  ,No spicy",
@@ -44,7 +44,7 @@
            "available": true,
             "popular_item": false,
             "tags":102,
-               "isMultiSt":[false,false,false] ,         
+               "isMultiSt":[false,false,true] ,         
                "textdisplay":["Cheese Rice","Spiciness","Changes"],
             "topping":["Steamed Rice,Sticky Rice"," Spicy 🌶️🌶️ ,Slightly spicy 🌶️  ,Very Spicy 🌶️🌶️🌶️ ","No Onion ,No Potato"]
                 }       
