@@ -25,9 +25,10 @@
            "available": true,
             "popular_item": false,
             "tags":100,
+             "isMultiSt":[false],             
             "textdisplay":["Choose"],
-            "topping":["Chiken=0,beef=3,Tofu=0,shrimp=16,White Meat=6"],
-            "isMultiSt":[false]                   
+            "topping":["Chiken=0,beef=3,Tofu=0,shrimp=16,White Meat=6"]
+                          
             
         },
    
@@ -42,9 +43,10 @@
            "available": true,
           "popular_item": true,
           "tags":102,
+            "isMultiSt":[false,false],            
            "textdisplay":["Choose","Choose Rice"],
-            "topping":["Chiken=0,beef=4,Tofu=0,shrimp=18,White Meat=10","Steamed Rice=0,Sticky Rice=3"],
-               "isMultiSt":[false,false]         
+            "topping":["Chiken=0,beef=4,Tofu=0,shrimp=18,White Meat=10","Steamed Rice=0,Sticky Rice=3"]
+                    
          },
           {
        "image":"https://firebasestorage.googleapis.com/v0/b/themyfood-d1fdf.appspot.com/o/esian%2FTom%20Yam.jpeg?alt=media&token=154615f1-43e7-4c01-bc9f-8e14c370fb14",
@@ -54,9 +56,10 @@
            "available": true,
           "popular_item": false,
           "tags":103,
+           "isMultiSt":[false,false],           
            "textdisplay":["Choose","Choose Rice"],
-           "topping":["Chiken=0,Tofu=0,shrimp=28","Steamed Rice=0,Sticky Rice=3"],
-              "isMultiSt":[false,false]     
+           "topping":["Chiken=0,Tofu=0,shrimp=28","Steamed Rice=0,Sticky Rice=3"]
+                
           }
     ]
        
