@@ -92,29 +92,12 @@
                 "thai",
                  "NamkingGeorge"
             ]
-        },
-      
-   
-        {
-            "blurhash": "UELWIZ-n~pxt?a9tbwIpx^o#OoRkbsD%tP^P",
-             "city": "Tel Aviv",
-            "currency": "ILS",
-            "delivery_price": 10,
-            "description": "Indulgent Sushi Dishes",
-            "image": "https://prod-wolt-venue-images-cdn.wolt.com/5b8e46f4c9d2f5000b8216fa/4c97474360f98231b7bb1f90e430855d",
-            "location": [
-               32.0900216,
-                34.7803117
-            ],
-            "name": "Ze Sushi / Basel",
-            "online": false,
-            "tags": [
-                "sushi",
-                "ZeSushiBasel"
-            ]
         }
       
+   
+      
+      
         
-        
+
       ]
 }
